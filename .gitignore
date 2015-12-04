@@ -1,0 +1,7 @@
+/.installed.cfg
+*~
+*.pyc
+/develop-eggs/
+/eggs/
+/bin/
+/src/homer.egg-info/
