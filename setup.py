@@ -21,7 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             'homer = homer:main',
-        ],  gg
+        ],
     },
     classifiers=[
         "Development Status :: 3 - Alpha",
